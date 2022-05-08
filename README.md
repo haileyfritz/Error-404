@@ -36,8 +36,6 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/immadsidd/immadsidd.Error-404/main/404-not-found-master/laptop.PNG)
-
 ![screenshot](https://github.com/haileyfritz/Error-404/blob/main/Demo%20Screenshot.jpeg)
 
 This has helped me practice my responsive design capabilities as well as mainly my CSS skills. I am a new CS student and I am trying to improve as much as I can.
