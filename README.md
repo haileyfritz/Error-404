@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://github.com/haileyfritz/Error-404/blob/main/index.html}">
       Solution
     </a>
     <span> | </span>
